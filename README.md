@@ -1,3 +1,4 @@
+```
 MONTH-DATE (progress)
 
 03-30
@@ -34,3 +35,5 @@ MONTH-DATE (progress)
 -implemented user session logic (UserSession.cs)
 -some dark theme optimizations
 
+
+```
