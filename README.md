@@ -1,5 +1,5 @@
 ```
-MONTH-DATE (progress)
+MONTH-DATE (this is the official order of the progress)
 
 03-30
 -added login features
