@@ -1,4 +1,12 @@
 ```
+FLOW & PROGRESS SUGGESTIONS
+-Dashboard UI | Macaya, Astrologo
+-Login & Logout | Mahilum, Macaya
+-StudyHub Logo | Mahilum, Macaya, Astrologo
+-Dark Mode | Mahilum
+
+
+
 MONTH-DATE | CONTRIBUTORS (official order of the progress)
 
 03-30 | Mahilum
