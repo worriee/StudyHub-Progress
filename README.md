@@ -48,5 +48,6 @@ MONTH-DATE | CONTRIBUTORS (official order of the progress)
 -fixed bugs in darkmode
 -fixed password security while typing eg. *****
 
-
-```
+05-03 | Salaber, Astrologo
+- added logic code in userhistory
+= added SQL Server
