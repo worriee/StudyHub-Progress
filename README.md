@@ -44,10 +44,17 @@ MONTH-DATE | CONTRIBUTORS (official order of the progress)
 -some dark theme optimizations
 
 04-27 | Mahilum
--added logout buton and logic
--fixed bugs in darkmode
--fixed password security while typing eg. *****
+-added logout button and logic
+-fixed bugs in dark mode
+-fixed password security while typing, e.g., *****
 
 05-03 | Salaber, Astrologo
 - added logic code in userhistory
 = added SQL Server
+
+05-07 | Villegas
+-added SQL Server database connection (StudyHubDB)
+-created Users table for account storage
+-fixed disappearing profile picture after login/logout
+-added PersonalInfo SQL update saving logic
+-improved dashboard account synchronization with SQL database
