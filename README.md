@@ -50,7 +50,7 @@ MONTH-DATE | CONTRIBUTORS (official order of the progress)
 
 05-03 | Salaber, Astrologo
 - added logic code in userhistory
-= added SQL Server
+- added SQL Server Database 
 
 05-07 | Villegas
 -added SQL Server database connection (StudyHubDB)
