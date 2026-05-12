@@ -58,3 +58,15 @@ MONTH-DATE | CONTRIBUTORS (official order of the progress)
 -fixed disappearing profile picture after login/logout
 -added PersonalInfo SQL update saving logic
 -improved dashboard account synchronization with SQL database
+
+05-10 to 05-12 FINAL | Mahilum, Villegas, Macaya
+-added and fixed a database tables for login details, chat room, dashboard card, message card and transaction history
+-fixed darkmode issues
+-added and fixed chatroom ui (where users chat each other to discuss their transaction)
+-optimizations in scenarios where the winforms app is crashing after logout and some cases
+-added a timer logic that frequently refreshes the chatroom (for realtime chat history), dashboard and message cards being displayed and transaction history table (for retrieving status)
+-added a year level option in addproject window (now the project being swapped includes a year level to it)
+-added a logic in search bar to search the cards on dashboard (u can search only the project title or name of a user)
+-added a logic in year level filter that it filters based on their year
+
+```
