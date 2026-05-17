@@ -69,4 +69,11 @@ MONTH-DATE | CONTRIBUTORS (official order of the progress)
 -added a logic in search bar to search the cards on dashboard (u can search only the project title or name of a user)
 -added a logic in year level filter that it filters based on their year
 
+05-17 FINAL DEFENSE | Mahilum, Macaya, Villegas
+-fixed the transaction flow where both users swap file each other and upload each other's finished file
+-fixed chatroom ui
+-implemented a hyperlink attached file to make it easy to download files
+-fixed database tables for the transaction flow to work
+-more details in chatroom to identify the finished file of both users and the to-swap file of the requester (public user)
+
 ```
